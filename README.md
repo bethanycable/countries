@@ -1,3 +1,9 @@
+This project was created from scratch following the guidance of the Full Stack Open Course. 
+
+Here is a link to code sandbox:
+https://codesandbox.io/s/countries-mkkyi1?file=/src/components/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
